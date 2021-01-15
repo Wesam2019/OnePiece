@@ -1,5 +1,5 @@
 # OnePiece
-A demo java project I created that explains some OOP and Collection concepts using the characters of OnePiece ©Eiichiro Oda/Shueisha, Toei Animation.
+A demo java tutorial I created that explains some OOP and Collection concepts using the characters of OnePiece ©Eiichiro Oda/Shueisha, Toei Animation.
 
 
 TreeMap gives you strawhats in alphabetical order and that is order by key.
